@@ -6,10 +6,10 @@ A collection of browser-based animations, visual studies, and explainers by bark
 
 | Folder | Contents |
 | --- | --- |
-| [animations](https://github.com/bobo-labs/content/tree/main/animations) | Standalone browser animation experiments |
-| [explainer_animations](https://github.com/bobo-labs/content/tree/main/explainer_animations) | Visual explainers and interface concepts |
-| [bobo content](https://github.com/bobo-labs/content/tree/main/bobo%20content) | Character and community-focused creative code |
-| [visualizing data](https://github.com/bobo-labs/content/tree/main/visualizing%20data) | Data-oriented visual experiments |
+| [animations](https://github.com/barkz-xyz/content/tree/main/animations) | Standalone browser animation experiments |
+| [explainer_animations](https://github.com/barkz-xyz/content/tree/main/explainer_animations) | Visual explainers and interface concepts |
+| [bobo content](https://github.com/barkz-xyz/content/tree/main/bobo%20content) | Character and community-focused creative code |
+| [visualizing data](https://github.com/barkz-xyz/content/tree/main/visualizing%20data) | Data-oriented visual experiments |
 
 ## Working with the sketches
 
@@ -25,4 +25,4 @@ npm start
 
 For other folders, serve the relevant HTML file with a local static web server so asset paths resolve correctly.
 
-[More work from bobo labs](https://github.com/bobo-labs)
+[More work from bobo labs](https://github.com/barkz-xyz)
