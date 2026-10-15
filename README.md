@@ -6,10 +6,10 @@ A collection of browser-based animations, visual studies, and explainers by Alej
 
 | Folder | Contents |
 | --- | --- |
-| [animations](animations) | Standalone browser animation experiments |
-| [explainer_animations](explainer_animations) | Visual explainers and interface concepts |
-| [bobo content](bobo%20content) | Character and community-focused creative code |
-| [visualizing data](visualizing%20data) | Data-oriented visual experiments |
+| [animations](https://github.com/bobo-labs/content/tree/main/animations) | Standalone browser animation experiments |
+| [explainer_animations](https://github.com/bobo-labs/content/tree/main/explainer_animations) | Visual explainers and interface concepts |
+| [bobo content](https://github.com/bobo-labs/content/tree/main/bobo%20content) | Character and community-focused creative code |
+| [visualizing data](https://github.com/bobo-labs/content/tree/main/visualizing%20data) | Data-oriented visual experiments |
 
 ## Working with the sketches
 
