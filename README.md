@@ -1,6 +1,6 @@
 # Creative Code — Visual Experiments
 
-A collection of browser-based animations, visual studies, and explainers by Alejandro Mendoza / bobo labs. The work explores how code, motion, and visual storytelling can make ideas tangible.
+A collection of browser-based animations, visual studies, and explainers by barkz. The work explores how code, motion, and visual storytelling can make ideas tangible.
 
 ## Browse the collection
 
